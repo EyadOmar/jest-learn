@@ -51,3 +51,9 @@ sorry for the messy notes, my notes are not organized. they are just notes that 
 - afterAll: runs after all tests
 - afterEach: runs after each test
 
+## Video 11 - Matchers
+- toBe(value) matcher checks if the value is equal to the expected value
+- toHaveLength(length) matcher checks if the array has the expected length
+- toContain(item) matcher checks if the array contains the specified item
+- not is inverse of the matcher and can be applied to any matcher
+- there are alot of mathcers, you can check them out here: https://jestjs.io/docs/expect
