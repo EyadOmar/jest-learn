@@ -1,5 +1,7 @@
 # Notes
 
+sorry for the messy notes, my notes are not organized. they are just notes that i took while watching the course.
+
 ## Video 1 - Introduction And Whats Unit Testing ?
 
 - Unit testing, breaks down your code into small pieces, and tests each piece to make sure it works as expected.
@@ -16,3 +18,20 @@
   - unit tests; as we disccussed testing specific part of the code or functionality
   - integration tests; testing the interaction between different parts of the code
   - end-to-end tests (e2e); testing the entire application, user experience, and user journey from start to finish
+
+## Video 3 - Test Driven Development And Your First Test
+
+- testing rules:
+  - get a function to test
+  - give input to the function
+  - define the expected output
+  - check if the output is correct
+  - repeat
+- TDD, test driven developemnt:
+  - Think what the code should do
+  - write the code
+  - test the code
+- jest always search for:
+  - __tests__ folder
+  - .spec.js/.test.js files
+  - .spec.ts/.test.ts files
