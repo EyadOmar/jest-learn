@@ -42,4 +42,5 @@ sorry for the messy notes, my notes are not organized. they are just notes that 
 - test function: test(name, fn, timeout) alias: it(name, fn, timeout)
 - describe function: describe(name, fn), is to orangize your tests under a specific topic
 - describes can be nested
--
+- only: .only can be added to test and describe fucntions to only run that test or describe
+- skip: .skip can be added to test and describe fucntions to skip that test or describe
