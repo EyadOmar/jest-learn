@@ -57,3 +57,7 @@ sorry for the messy notes, my notes are not organized. they are just notes that 
 - toContain(item) matcher checks if the array contains the specified item
 - not is inverse of the matcher and can be applied to any matcher
 - there are alot of mathcers, you can check them out here: https://jestjs.io/docs/expect
+
+## Video 12 - Expect
+- expect.anything() matcher checks if the value is not null or undefined
+- expect.any(type) matcher checks if the value is an instance of the specified type
