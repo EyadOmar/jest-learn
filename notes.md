@@ -32,15 +32,22 @@ sorry for the messy notes, my notes are not organized. they are just notes that 
   - write the code
   - test the code
 - jest always search for:
-  - __tests__ folder
+  - **tests** folder
   - .spec.js/.test.js files
   - .spec.ts/.test.ts files
 
-
-## Video 4:6 -  Jest Global Methods
+## Video 4:9 - Jest Global Methods
 
 - test function: test(name, fn, timeout) alias: it(name, fn, timeout)
 - describe function: describe(name, fn), is to orangize your tests under a specific topic
 - describes can be nested
 - only: .only can be added to test and describe fucntions to only run that test or describe
 - skip: .skip can be added to test and describe fucntions to skip that test or describe
+
+## Video 10 - Before
+
+- beforeAll: runs before all tests
+- beforeEach: runs before each test
+- afterAll: runs after all tests
+- afterEach: runs after each test
+
