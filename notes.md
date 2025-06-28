@@ -37,6 +37,9 @@ sorry for the messy notes, my notes are not organized. they are just notes that 
   - .spec.ts/.test.ts files
 
 
-## Video 4 -  Jest Global Methods
+## Video 4:6 -  Jest Global Methods
 
 - test function: test(name, fn, timeout) alias: it(name, fn, timeout)
+- describe function: describe(name, fn), is to orangize your tests under a specific topic
+- describes can be nested
+-
