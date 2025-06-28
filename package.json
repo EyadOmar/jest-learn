@@ -1,0 +1,23 @@
+{
+  "name": "jest-learn",
+  "version": "1.0.0",
+  "description": "This repository is dedicated to learning **Jest**, the JavaScript Testing Framework, by following the [JavaScript Unit Testing With Jest Course](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O) on YouTube by El Zero web school.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EyadOmar/jest-learn.git"
+  },
+  "keywords": [],
+  "author": "Eyad Omar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EyadOmar/jest-learn/issues"
+  },
+  "homepage": "https://github.com/EyadOmar/jest-learn#readme",
+  "devDependencies": {
+    "jest": "^30.0.3"
+  }
+}
