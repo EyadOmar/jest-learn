@@ -35,3 +35,8 @@ sorry for the messy notes, my notes are not organized. they are just notes that 
   - __tests__ folder
   - .spec.js/.test.js files
   - .spec.ts/.test.ts files
+
+
+## Video 4 -  Jest Global Methods
+
+- test function: test(name, fn, timeout) alias: it(name, fn, timeout)
